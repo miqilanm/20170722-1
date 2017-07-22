@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 console.log(b) master
+=======
+console.log(a) fig
+>>>>>>> fig
